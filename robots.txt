@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stevefrankns.github.io/Enable-BitLocker-Drive-Encryption-Windows-10/sitemap.xml
